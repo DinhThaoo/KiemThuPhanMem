@@ -1,0 +1,93 @@
+C:\Users\BOSS\source\repos\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.exe.config
+C:\Users\BOSS\source\repos\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.exe
+C:\Users\BOSS\source\repos\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.pdb
+C:\Users\BOSS\source\repos\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.AssemblyReference.cache
+C:\Users\BOSS\source\repos\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.DangNhap.resources
+C:\Users\BOSS\source\repos\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.Properties.Resources.resources
+C:\Users\BOSS\source\repos\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.GenerateResource.cache
+C:\Users\BOSS\source\repos\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.CoreCompileInputs.cache
+C:\Users\BOSS\source\repos\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.exe
+C:\Users\BOSS\source\repos\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.pdb
+C:\Users\BOSS\source\repos\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.MainMenu.resources
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.exe.config
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.exe
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.pdb
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csprojAssemblyReference.cache
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.DangNhap.resources
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.MainMenu.resources
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.Properties.Resources.resources
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.GenerateResource.cache
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.CoreCompileInputs.cache
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.exe
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.pdb
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.TaiKhoanDangNhap.resources
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyNhanSu.resources
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyKhachHang.resources
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLySanPham.resources
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyBanHang.resources
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyBaoCao.resources
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.HoSoNhanVien.resources
+D:\BaiTap\LapTrinh.NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.HoSoThucTap.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.exe.config
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.exe
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.pdb
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.DangNhap.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.HoSoNhanVien.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.HoSoThucTap.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.MainMenu.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.Properties.Resources.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyBanHang.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyBaoCao.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyKhachHang.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyNhanSu.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLySanPham.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.TaiKhoanDangNhap.resources
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.GenerateResource.cache
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.exe
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.pdb
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.exe.config
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.exe
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.pdb
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.DangNhap.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.HoSoNhanVien.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.HoSoThucTap.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.MainMenu.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.Properties.Resources.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyBanHang.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyBaoCao.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyKhachHang.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyNhanSu.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLySanPham.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.TaiKhoanDangNhap.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.GenerateResource.cache
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.CoreCompileInputs.cache
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.exe
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.pdb
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.MenuNhanVien.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.ResolveComReference.cache
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.ResolveComReference.cache
+D:\ĐỒ ÁN .NET\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.MenuNhanVien.resources
+C:\Users\THAO\Downloads\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csprojAssemblyReference.cache
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.exe.config
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.exe
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\bin\Debug\DoAnLapTrinh.pdb
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.AssemblyReference.cache
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.SuggestedBindingRedirects.cache
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.ResolveComReference.cache
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.DangNhap.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.HoSoNhanVien.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.HoSoThucTap.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.MainMenu.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.MenuNhanVien.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.Properties.Resources.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyBanHang.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyBaoCao.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyKhachHang.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLyNhanSu.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.QuanLySanPham.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.TaiKhoanDangNhap.resources
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.GenerateResource.cache
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.csproj.CoreCompileInputs.cache
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.exe
+D:\KiemThuPhanMem\DoAnLapTrinh\DoAnLapTrinh\obj\Debug\DoAnLapTrinh.pdb
